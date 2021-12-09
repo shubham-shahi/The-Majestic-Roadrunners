@@ -1,2 +1,5 @@
 # The-Majestic-Roadrunners
-For Data Science Fall 2021
+DATA SCIENCE SEMINAR
+
+WHO SHOT FIRST?
+
